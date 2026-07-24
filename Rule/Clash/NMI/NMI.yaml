@@ -1,0 +1,11 @@
+# NAME: NMI
+# AUTHOR: dhzsqz
+# REPO: https://github.com/dhzsqz/MyRule
+# UPDATED: 2026-07-24 14:15:00
+# DOMAIN-SUFFIX: 4
+# TOTAL: 4
+payload:
+  - DOMAIN-SUFFIX,nmi.com
+  - DOMAIN-SUFFIX,networkmerchants.com
+  - DOMAIN-SUFFIX,cardeasexml.com
+  - DOMAIN-SUFFIX,secure.nmi.com
